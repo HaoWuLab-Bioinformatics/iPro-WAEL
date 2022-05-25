@@ -16,7 +16,7 @@ The file "feature_code.py" is the code used to extract word2vec features.
 ## Dependency
 Python 3.6   
 keras  2.3.1  
-tensorflow 2.0.0
+tensorflow 2.0.0  
 sklearn  
 numpy  
 h5py 

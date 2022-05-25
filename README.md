@@ -2,6 +2,9 @@
 
 A Comprehensive and Robust Framework for Identifying Promoters in Multiple Species
 
+## Framework
+![image](https://github.com/HaoWuLab-Bioinformatics/iPro-WAEL/blob/main/Figure/Figure1.png)
+
 ## Overview
  
 The folder "data" is the data of the promoter, containing the sequences and labels of the independent tesst sets and training sets.  

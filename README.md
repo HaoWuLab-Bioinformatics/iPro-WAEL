@@ -11,3 +11,21 @@ The file "RF.py" is the code of the random forest model.
 The file "CNN.py" is the code of the CNN model.  
 The file "Weighted_average.py" is the code of the weighted average algorithm.  
 The file "main.py" is the code of the entire model.  
+The file "feature_code.py" is the code used to extract word2vec features.  
+
+## Dependency
+Python 3.6   
+keras  2.3.1  
+tensorflow 2.0.0
+sklearn  
+numpy  
+h5py 
+
+## Usage
+First, you should extract features of promoters, you can run the script to extract word2vec-based features as follows:  
+`python feature_code.py`  
+The extraction of other features is done using iLearnPlus [1].  
+Then run the script as follows to compile and run iPro-WAEL:  
+`python main.py`    
+## Reference
+1. Chen Z, Zhao P, Li C, et al. ILearnPlus: A comprehensive and automated machine-learning platform for nucleic acid and protein sequence analysis, prediction and visualization. Nucleic Acids Res. 2021; 49:1–19

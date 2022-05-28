@@ -29,6 +29,7 @@ First, you should extract features of promoters, you can run the script to extra
 `python feature_code.py`  
 The extraction of other features is done using iLearnPlus [1].  
 Then run the script as follows to compile and run iPro-WAEL:  
-`python main.py`    
+`python main.py`  
+Note that the variable 'cell_lines' needs to be manually modified to change the predicted cell line.  
 ## Reference
 1. Chen Z, Zhao P, Li C, et al. ILearnPlus: A comprehensive and automated machine-learning platform for nucleic acid and protein sequence analysis, prediction and visualization. Nucleic Acids Res. 2021; 49:1–19

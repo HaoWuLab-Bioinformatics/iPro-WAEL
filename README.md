@@ -3,7 +3,7 @@
 A Comprehensive and Robust Framework for Identifying Promoters in Multiple Species
 
 ## Framework
-![image](https://github.com/HaoWuLab-Bioinformatics/iPro-WAEL/blob/main/Figure/Figure1.png)
+![image](https://github.com/HaoWuLab-Bioinformatics/IChrom-Deep/tree/main/Figure)
 
 ## Overview
  

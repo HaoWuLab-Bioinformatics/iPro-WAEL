@@ -9,7 +9,7 @@ A Comprehensive and Robust Framework for Identifying Promoters in Multiple Speci
  
 The folder "data" contains the data of the promoter, containing the sequences of 12 datasets for seven species.  
 The folder "EPdata" contains the data of the enhancer and promoter, containing the sequences of the independent test sets and training sets. The first half of each file is labeled 1, and the second half is labeled 0.  
-The folder "models" contains the trained models on 12 datasets of seven species for use or validation.    
+The folder "model" contains the trained models on 12 datasets of seven species for use or validation.    
 The file "index_promoters.txt" and "word2vec_promoters.txt" are benchmark files used to extract word2vec features of human.  
 The file "RF.py" is the code of the random forest model.  
 The file "CNN.py" is the code of the CNN model.  

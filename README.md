@@ -18,13 +18,14 @@ The file "main.py" is the code of the entire model and will import RF, CNN and W
 The file "feature_code.py" is the code used to extract word2vec features.  
 
 ## Dependency
+Mainly used libraries  
 Python 3.6   
 keras  2.3.1  
 tensorflow 2.0.0  
 sklearn  
 numpy  
 h5py 
-
+See requirements.txt for all detailed libraries.  
 ## Usage
 First, you should extract features of promoters, you can run the script to extract word2vec-based features as follows:  
 `python feature_code.py`  

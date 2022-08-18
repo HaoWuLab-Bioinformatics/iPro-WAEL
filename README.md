@@ -16,6 +16,8 @@ The file "CNN.py" is the code of the CNN model.
 The file "Weighted_average.py" is the code of the weighted average algorithm.  
 The file "main.py" is the code of the entire model and will import RF, CNN and Weighted_average.  
 The file "feature_code.py" is the code used to extract word2vec features.  
+The file "feature_importance.rar" is a compressed file for exploring important motifs, including code and specific results.  
+The file "R.capsulatus.rar" is an example feature file to verify model performance (the feature file for the human dataset is too large to upload to github).  
 
 ## Dependency
 Mainly used libraries:  
